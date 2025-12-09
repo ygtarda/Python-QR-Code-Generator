@@ -32,4 +32,4 @@ python qr_gen.py
 
 **Arda Yiğit**
 * GitHub:[ygtarda](https://github.com/ygtarda)
-* LinkedIn:[Arda Yiğit]()https://www.linkedin.com/in/arda-yigit
+* LinkedIn:[Arda Yiğit](https://www.linkedin.com/in/arda-yigit)
