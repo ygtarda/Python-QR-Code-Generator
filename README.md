@@ -14,7 +14,7 @@
 ## 🛠️ Kurulum
 
 ```bash
-git clone [https://github.com/KULLANICI_ADI/qr-code-gen.git](https://github.com/KULLANICI_ADI/qr-code-gen.git)
+git clone [https://github.com/ygtarda/Python-QR-Code-Generator.git](https://github.com/ygtarda/Python-QR-Code-Generator.git)
 cd qr-code-gen
 pip install "qrcode[pil]"
 ```
